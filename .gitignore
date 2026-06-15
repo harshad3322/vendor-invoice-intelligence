@@ -19,8 +19,7 @@ env/
 .streamlit/secrets.toml
 
 # Model Files
-*.pkl
-*.joblib
+
 
 # Database
 data/inventory.db
